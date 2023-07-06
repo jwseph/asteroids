@@ -14,4 +14,5 @@ Based on the Atari arcade game
 - `M` Mouse controls
 - `Z` Hitboxes
 - `X` Asteroid count
+- `Esc` Pause game
 - `Konami code` ???
