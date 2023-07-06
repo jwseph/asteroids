@@ -5,7 +5,9 @@ Based on the Atari arcade game
 ## Installation
 
 - Windows: Just download and run `asteroids.exe`
-- Other: Download `src` and run `asteroids.py`
+- Others:
+  - Download `src` and run `asteroids.py`
+  - To install pygame: `pip install pygame`
 
 ## Controls
 - `W ↑` Thrust
