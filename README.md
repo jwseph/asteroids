@@ -12,11 +12,11 @@ Based on the Atari arcade game
   - To install pygame: `pip install pygame`
 
 ## Controls
-- `W ↑` Thrust
-- `A ←` `D →` Rotate left/right
-- `S ↓` Hyperspace
-- `M` Mouse controls
-- `Z` Hitboxes
-- `X` Asteroid count
-- `Esc` Pause game
-- `Konami code` ???
+- <kbd>W ↑</kbd> Thrust
+- <kbd>A ←</kbd> <kbd>D →</kbd> Rotate left/right
+- <kbd>S ↓</kbd> Hyperspace
+- <kbd>M</kbd> Mouse controls
+- <kbd>Z</kbd> Hitboxes
+- <kbd>X</kbd> Asteroid count
+- <kbd>Esc</kbd> Pause game
+- <kbd>Konami code</kbd> ???
